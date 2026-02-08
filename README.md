@@ -25,7 +25,7 @@ Technologies and Tools
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e2c5d79b-22ef-4417-a31c-292f6695a32f" />
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f70fd7a5-2b12-421a-91f0-79b0fa4af2ee" />
+<img width="480" height="40" alt="image" src="https://github.com/user-attachments/assets/f70fd7a5-2b12-421a-91f0-79b0fa4af2ee" />
 
 
 
